@@ -59,8 +59,3 @@ if image:
         data=saving_img(),
         file_name='svd_image.png',
         mime='image/png')
-
-
-
-
-
